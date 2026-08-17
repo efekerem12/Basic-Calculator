@@ -1,6 +1,6 @@
 # 🚀 Proje Adı
 
-> Projenin ne işe yaradığını tek bir cümleyle özetleyen vurucu açıklama buraya gelecek.
+> Basic Calculator
 
 ---
 
